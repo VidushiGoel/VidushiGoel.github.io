@@ -44,7 +44,7 @@ const Projects = () => {
         { value: '<5s', label: 'Analysis Time' },
       ],
       tech: ['Python', 'LangChain', 'GPT-4', 'FastAPI'],
-      github: 'https://github.com/VidushiGoel',
+      github: 'https://github.com/VidushiGoel/pr-analysis-agent',
     },
     {
       id: 'ensemble-reviewer',
@@ -68,7 +68,7 @@ const Projects = () => {
         { value: '99%', label: 'Cost Savings' },
       ],
       tech: ['Python', 'OpenAI', 'Anthropic', 'Google AI'],
-      github: 'https://github.com/VidushiGoel',
+      github: 'https://github.com/VidushiGoel/ai-resume-review',
     },
     {
       id: 'slugbook',
