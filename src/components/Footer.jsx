@@ -25,7 +25,7 @@ const Footer = () => {
               <FiGithub />
             </a>
             <a
-              href="https://linkedin.com/in/vidushigoel"
+              href="https://www.linkedin.com/in/vidushi-goel-6a6886135/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"

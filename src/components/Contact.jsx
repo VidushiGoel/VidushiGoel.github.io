@@ -24,8 +24,8 @@ const Contact = () => {
     {
       icon: <FiLinkedin />,
       label: 'LinkedIn',
-      value: 'vidushigoel',
-      href: 'https://linkedin.com/in/vidushigoel',
+      value: 'Vidushi Goel',
+      href: 'https://www.linkedin.com/in/vidushi-goel-6a6886135/',
     },
     {
       icon: <FiMapPin />,
